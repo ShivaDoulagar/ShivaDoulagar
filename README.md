@@ -1,117 +1,169 @@
-# 👋 Hey there! I'm **Shiva**
+```
+┌─[shiva@github]─[~]
+└──╼ $ whoami
+```
+
+# 👾 Shiva Doulagar
+
+```
+┌─[shiva@github]─[~/profile]
+└──╼ $ cat about_me.txt
+```
+
+```console
+🚀 Computer Science & Mathematics Student | Developer | Tech Enthusiast
+📍 Location: Hyderabad, Telangana, IN
+🎓 Institute: Bharat Institute of Engineering and Technology
+🔧 Status: Building cool projects and exploring new domains
+☕ Fun Fact: I love turning coffee into code!
+```
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=00F000&center=true&vCenter=true&width=600&lines=Welcome+to+my+terminal...;Initializing+developer+mode...;Loading+awesome+projects...;Ready+to+collaborate!" alt="Terminal Typing"/>
+</div>
+
+```
+┌─[shiva@github]─[~/skills]
+└──╼ $ ls -la programming_languages/
+```
+
+```bash
+drwxr-xr-x  3 shiva shiva 4096 Aug 11 2025 .
+drwxr-xr-x 12 shiva shiva 4096 Aug 11 2025 ..
+-rwxr-xr-x  1 shiva shiva 2048 Aug 11 2025 python*
+-rwxr-xr-x  1 shiva shiva 1024 Aug 11 2025 java*
+-rwxr-xr-x  1 shiva shiva  512 Aug 11 2025 c*
+```
+
+```
+┌─[shiva@github]─[~/skills]
+└──╼ $ ./web_development --list
+```
+
+```yaml
+Frontend:
+  - HTML5: ████████████████████ 90%
+  - CSS3: ████████████████████ 85%
+  - JavaScript: ███████████████████ 80%
+  - Bootstrap: ██████████████████ 75%
+  - Vue.js: ████████████████ 70%
+
+Backend:
+  - Flask: ████████████████ 70%
+  - Django: █████████████ 65%
+
+Databases:
+  - MySQL: ███████████████████ 80%
+  - PostgreSQL: ██████████████ 65%
+```
+
+```
+┌─[shiva@github]─[~/tools]
+└──╼ $ which development_tools
+```
+
+```diff
++ Git                 # Version control master
++ GitHub              # Code collaboration
++ VS Code             # Primary IDE
++ Eclipse             # Java development
++ IntelliJ IDEA       # Advanced IDE
+```
+
+```
+┌─[shiva@github]─[~/stats]
+└──╼ $ github --stats --user=ShivaDoulagar
+```
 
 <div align="center">
   
-### 🚀 Computer Science & Mathematics Student | Developer | Tech Enthusiast
+**📊 SYSTEM PERFORMANCE METRICS**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;CS+%26+Math+Student;Full+Stack+Developer;Always+Learning+New+Tech!" alt="Typing SVG" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivaDoulagar&show_icons=true&theme=terminal&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F000&text_color=00F000&icon_color=00F000"/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer Animation">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaDoulagar&layout=compact&theme=terminal&bg_color=0D1117&title_color=00F000&text_color=00F000"/>
 
 </div>
 
----
 
-## 🧑‍💻 **About Me**
-
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
-- 🤔 **Exploring** new technologies and developing software solutions and quick hacks
-- 👀 **Interested** in building cool projects and exploring new domains  
-- 🌱 **Currently learning** Python and improving my full-stack development skills
-- 🎓 **Studying** Computer Science & Mathematics at **Bharat Institute of Engineering and Technology**
-- ⚡ **Fun fact**: I love turning coffee into code! ☕→💻
-
-<br clear="both">
-
----
-
-## 🛠️ **Tech Stack & Tools**
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🌐 **Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ **Backend & Frameworks**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 🛢️ **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ⚙️ **Tools & IDEs**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 **GitHub Analytics**
+```
+┌─[shiva@github]─[~/activity]
+└──╼ $ activity_monitor --graph
+```
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivaDoulagar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaDoulagar&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaDoulagar&theme=terminal&bg_color=0d1117&color=00f000&line=00f000&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
+
+```
+┌─[shiva@github]─[~/learning]
+└──╼ $ current_focus.sh
+```
+
+```python
+#!/usr/bin/env python3
+# Current Learning Path
+
+def main():
+    learning = {
+        "primary_language": "Python",
+        "focus_area": "Full Stack Development",
+        "current_projects": ["Web Applications", "Data Structures", "Algorithms"],
+        "interests": ["Machine Learning", "Web Development", "Software Engineering"],
+        "goal": "Building innovative solutions and contributing to open source"
+    }
+    
+    for key, value in learning.items():
+        print(f"→ {key.replace('_', ' ').title()}: {value}")
+
+if __name__ == "__main__":
+    main()
+```
+
+```
+┌─[shiva@github]─[~/contact]
+└──╼ $ cat contact_info.sh
+```
+
+```bash
+#!/bin/bash
+
+echo "📡 ESTABLISHING CONNECTION..."
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "📧 Email    : shivadoulager@gmail.com"
+echo "💼 LinkedIn : https://www.linkedin.com/in/shiva-doulagar-95b494287"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "✅ CONNECTION ESTABLISHED"
+```
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaDoulagar&theme=tokyonight" alt="GitHub Streak"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/shiva-doulagar-95b494287)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:shivadoulager@gmail.com)
+
 </div>
+
+```
+┌─[shiva@github]─[~]
+└──╼ $ echo "Thanks for visiting my terminal!"
+```
+
+```
+████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗
+╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝
+   ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗
+   ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║
+   ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+```
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaDoulagar&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://komarev.com/ghpvc/?username=ShivaDoulagar&label=TERMINAL_SESSIONS&color=00ff00&style=flat" alt="Profile Views" />
 </div>
 
----
+```
+┌─[shiva@github]─[~]
+└──╼ $ exit
+```
 
----
-
-## 🎯 **Fun Zone**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding Animation"/>
-  
-  ### 💭 Random Dev Quote
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 📫 **Let's Connect!**
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-doulagar-95b494287)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivadoulager@gmail.com)
-
-### 🌟 **Thanks for visiting my profile!** 
-<img src="https://komarev.com/ghpvc/?username=ShivaDoulagar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</div>
+**Connection closed.**
